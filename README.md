@@ -1,2 +1,2 @@
 # NOOB-Obsidian
-Obsidian笔记
+Obsidian笔记+插件
