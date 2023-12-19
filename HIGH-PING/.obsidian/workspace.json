@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aab09307f5816353",
+            "id": "7c8ebbb0d6c2e547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot/REST风格.md",
+                "file": "LeetCode/简单/回文数.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot/REST风格.md",
+                "file": "LeetCode/简单/回文数.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot/REST风格.md",
+                "file": "LeetCode/简单/回文数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot/REST风格.md"
+                "file": "LeetCode/简单/回文数.md"
               }
             }
           },
@@ -166,30 +166,41 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2d308f398c0c8957",
+  "active": "7c8ebbb0d6c2e547",
   "lastOpenFiles": [
-    "SpringBoot/配置文件.md",
-    "SpringBoot/REST风格.md",
-    "SpringBoot/数据库.md",
-    "SpringBoot/Lombok.md",
-    "SpringBoot/Web.md",
-    "SpringBoot/拦截器.md",
-    "SpringBoot/插件.md",
-    "SpringBoot/内容协商.md",
-    "Java学习路线.md",
-    "消费/年消费.md",
-    "未命名.md",
-    "消费",
-    "Mybatis-plus/wrapper.md",
-    "Mybatis-plus/基础.md",
-    "Mybatis-plus/分页.md",
-    "Git/Git.md",
-    "Pasted image 20231113155445.png.md",
-    "Mybatis/CRUD.md",
-    "Java/5.多线程.md",
+    "LeetCode/简单/两数之和.md",
+    "LeetCode/简单/回文数.md",
     "Java/1.OOP.md",
-    "Mybatis-plus",
+    "LeetCode/简单",
+    "消费/年消费.md",
+    "未命名",
+    "大厂研发流程.md",
+    "配置表.md",
+    "OA项目/5.菜单管理.md",
+    "Python学习路线.md",
+    "Java学习路线.md",
+    "Javaweb/1.Servlet.md",
+    "Linux学习路线.md",
+    "Javaweb/2.Request.md",
+    "Javaweb/3.设计模式.md",
+    "Java/4.集合.md",
+    "Java/3.异常.md",
+    "Java/2.utility.md",
+    "Java/6.反射.md",
+    "Java/5.多线程.md",
+    "Git/Git.md",
+    "前端学习路线.md",
     "Pasted image 20231115151934.png.md",
+    "Pasted image 20231113155445.png.md",
+    "LeetCode",
+    "OA项目/10.前端审批.md",
+    "OA项目/9.审批管理.md",
+    "OA项目/8.审批设置.md",
+    "OA项目/7.activiti入门.md",
+    "OA项目",
+    "新建文件夹",
+    "消费",
+    "Mybatis-plus",
     "Accessory/Mybatis-Plus-01.png",
     "Accessory/Mybatis-Plus-00.png",
     "Accessory/Git-00.png",
@@ -197,22 +208,11 @@
     "Accessory/Pasted image 20231115151934.png",
     "Accessory/Pasted image 20231113155445.png",
     "Accessory/Pasted image 20231115151849.png",
-    "Python学习路线.md",
-    "Linux学习路线.md",
-    "前端学习路线.md",
-    "大厂研发流程.md",
     "Accessory/MVC.png",
     "Accessory/英标对照表.pdf",
-    "Javaweb/3.设计模式.md",
-    "Java/3.异常.md",
     "Accessory/Pasted image 20230705155705.png",
     "Accessory/Pasted image 20230705155213.png",
     "Git",
-    "Excalidraw",
-    "Accessory",
-    "SpringBoot",
-    "Mybatis",
-    "Javaweb",
-    "Java"
+    "Excalidraw"
   ]
 }
