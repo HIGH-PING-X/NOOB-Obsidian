@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a3b881a3ac890c42",
+        "id": "359f10a38acfca69",
         "type": "tabs",
         "children": [
           {
-            "id": "7c8ebbb0d6c2e547",
+            "id": "f3e3ed8b22a30b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/简单/合并两个有序链表.md",
+                "file": "配置表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d73e9aa024dfc3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "配置表.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           },
           {
-            "id": "b17cadb99bfa8d38",
+            "id": "f1ce5b8966c38b20",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/简单/合并两个有序链表.md",
+                "file": "配置表.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/简单/合并两个有序链表.md",
+                "file": "配置表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/简单/合并两个有序链表.md"
+                "file": "配置表.md"
               }
             }
           },
@@ -144,14 +157,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "a018d53a09a9d4e9",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,43 +186,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7c8ebbb0d6c2e547",
+  "active": "2d73e9aa024dfc3e",
   "lastOpenFiles": [
-    "LeetCode/简单/有效括号.md",
-    "LeetCode/简单/合并两个有序链表.md",
-    "LeetCode/简单/最长公共前缀.md",
-    "LeetCode/简单/罗马数字转整数.md",
-    "LeetCode/简单/回文数.md",
-    "LeetCode/简单/两数之和.md",
     "Java/1.OOP.md",
-    "LeetCode/简单",
-    "消费/年消费.md",
-    "未命名",
-    "大厂研发流程.md",
+    "Shopping List.md",
     "配置表.md",
-    "OA项目/5.菜单管理.md",
-    "Python学习路线.md",
     "Java学习路线.md",
-    "Javaweb/1.Servlet.md",
-    "Linux学习路线.md",
-    "Javaweb/2.Request.md",
-    "Javaweb/3.设计模式.md",
+    "LeetCode/简单/回文数.md",
+    "LeetCode/简单/合并两个有序链表.md",
+    "Java/5.多线程.md",
+    "Java/6.反射.md",
     "Java/4.集合.md",
     "Java/3.异常.md",
     "Java/2.utility.md",
-    "Java/6.反射.md",
-    "Java/5.多线程.md",
+    "SpringBoot/内容协商.md",
+    "SpringBoot/拦截器.md",
+    "SpringBoot/插件.md",
+    "大厂研发流程.md",
+    "Python学习路线.md",
+    "Javaweb/1.Servlet.md",
+    "Mybatis/CRUD.md",
+    "Mybatis-plus/分页.md",
+    "Accessory/Mybatis-Plus-00.png",
+    "VUE",
     "Git/Git.md",
-    "前端学习路线.md",
-    "Pasted image 20231115151934.png.md",
-    "Pasted image 20231113155445.png.md",
+    "assets/1671799530247.png.md",
+    "Javaweb/2.Request.md",
+    "Javaweb/3.设计模式.md",
+    "Mybatis-plus/wrapper.md",
+    "OA项目/10.前端审批.md",
+    "OA项目/9.审批管理.md",
+    "assets",
+    "LeetCode/简单",
     "LeetCode",
     "OA项目",
     "新建文件夹",
     "消费",
     "Mybatis-plus",
     "Accessory/Mybatis-Plus-01.png",
-    "Accessory/Mybatis-Plus-00.png",
     "Accessory/Git-00.png",
     "Accessory/Pasted image 20231116105345.png",
     "Accessory/Pasted image 20231115151934.png",
@@ -212,7 +233,6 @@
     "Accessory/英标对照表.pdf",
     "Accessory/Pasted image 20230705155705.png",
     "Accessory/Pasted image 20230705155213.png",
-    "Git",
-    "Excalidraw"
+    "Git"
   ]
 }

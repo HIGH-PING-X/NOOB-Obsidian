@@ -4,5 +4,8 @@
   "trashOption": "local",
   "attachmentFolderPath": "accessory",
   "livePreview": true,
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "rightToLeft": false
 }
