@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置表.md",
+                "file": "Shopping List.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置表.md",
+                "file": "Shopping List.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "配置表.md",
+                "file": "Shopping List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "配置表.md"
+                "file": "Shopping List.md"
               }
             }
           },
@@ -188,10 +188,12 @@
   },
   "active": "2d73e9aa024dfc3e",
   "lastOpenFiles": [
-    "Java/1.OOP.md",
+    "Python学习路线.md",
     "Shopping List.md",
-    "配置表.md",
     "Java学习路线.md",
+    "大厂研发流程.md",
+    "配置表.md",
+    "Java/1.OOP.md",
     "LeetCode/简单/回文数.md",
     "LeetCode/简单/合并两个有序链表.md",
     "Java/5.多线程.md",
@@ -202,8 +204,6 @@
     "SpringBoot/内容协商.md",
     "SpringBoot/拦截器.md",
     "SpringBoot/插件.md",
-    "大厂研发流程.md",
-    "Python学习路线.md",
     "Javaweb/1.Servlet.md",
     "Mybatis/CRUD.md",
     "Mybatis-plus/分页.md",
