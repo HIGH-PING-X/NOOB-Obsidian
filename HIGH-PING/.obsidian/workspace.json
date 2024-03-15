@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping List.md",
+                "file": "Java/1.OOP.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "541025ebe054568c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "规格.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping List.md",
+                "file": "规格.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shopping List.md",
+                "file": "规格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping List.md"
+                "file": "规格.md"
               }
             }
           },
@@ -186,14 +198,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2d73e9aa024dfc3e",
+  "active": "541025ebe054568c",
   "lastOpenFiles": [
-    "Python学习路线.md",
+    "配置表.md",
+    "规格.md",
+    "Java/1.OOP.md",
+    "Git/Git.md",
+    "SpringBoot/Web.md",
+    "SpringBoot/REST风格.md",
+    "SpringBoot/Lombok.md",
+    "SpringBoot/文件上传.md",
+    "SpringBoot/数据库.md",
+    "SpringBoot/配置文件.md",
+    "SpringBoot/内容协商.md",
+    "SpringBoot/拦截器.md",
+    "SpringBoot/插件.md",
     "Shopping List.md",
+    "Python学习路线.md",
     "Java学习路线.md",
     "大厂研发流程.md",
-    "配置表.md",
-    "Java/1.OOP.md",
     "LeetCode/简单/回文数.md",
     "LeetCode/简单/合并两个有序链表.md",
     "Java/5.多线程.md",
@@ -201,21 +224,10 @@
     "Java/4.集合.md",
     "Java/3.异常.md",
     "Java/2.utility.md",
-    "SpringBoot/内容协商.md",
-    "SpringBoot/拦截器.md",
-    "SpringBoot/插件.md",
     "Javaweb/1.Servlet.md",
     "Mybatis/CRUD.md",
-    "Mybatis-plus/分页.md",
     "Accessory/Mybatis-Plus-00.png",
     "VUE",
-    "Git/Git.md",
-    "assets/1671799530247.png.md",
-    "Javaweb/2.Request.md",
-    "Javaweb/3.设计模式.md",
-    "Mybatis-plus/wrapper.md",
-    "OA项目/10.前端审批.md",
-    "OA项目/9.审批管理.md",
     "assets",
     "LeetCode/简单",
     "LeetCode",
