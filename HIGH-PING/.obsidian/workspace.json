@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "配置表.md",
+                "file": "主机配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,8 @@
   },
   "active": "541025ebe054568c",
   "lastOpenFiles": [
-    "配置表.md",
+    "主机配置.md",
+    "规格.md",
     "Shopping List.md",
     "Java/1.OOP.md",
     "LeetCode/简单/合并两个有序链表.md",
@@ -211,7 +212,6 @@
     "LeetCode/简单/找出字符串中第一个匹配项的下标.md",
     "LeetCode/简单/最长公共前缀.md",
     "SpringBoot/REST风格.md",
-    "规格.md",
     "Git/Git.md",
     "SpringBoot/Web.md",
     "SpringBoot/Lombok.md",
