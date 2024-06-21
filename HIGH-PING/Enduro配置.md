@@ -2,6 +2,7 @@
 | --- | -------------------------------------------------------------------------------------------------- | ----- |
 | 车架  | commencal meta sx v5                                                                               | 18200 |
 |     | commencal meta ht                                                                                  | 4480  |
+|     | conyon troque CF CLLCTV FW                                                                         |       |
 | 后胆  | Fox float x2                                                                                       | 3999  |
 | 刹车  | TRP DH-R EVO HD-M846                                                                               | 3280  |
 | 碟片  | R220S01E一对 + 转换座                                                                                   | 560   |
@@ -23,3 +24,4 @@
 |     | SHIMANO 刹车油1000ml + 注油工具                                                                           | 150   |
 |     | Commencal meta ht                                                                                  | 24159 |
 |     | Commencal meta sx v 5                                                                              | 41878 |
+| 未打折 | Conyon troque CF CLLCTV FW                                                                         | 39180 |
