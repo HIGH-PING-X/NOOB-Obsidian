@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping List.md",
+                "file": "配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shopping List.md",
+                "file": "配置.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shopping List.md",
+                "file": "配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shopping List.md"
+                "file": "配置.md"
               }
             }
           },
@@ -212,11 +212,12 @@
   },
   "active": "2d73e9aa024dfc3e",
   "lastOpenFiles": [
-    "Java学习路线.md",
+    "Accessory/Pasted image 20240902155613.png",
     "Enduro配置.md",
+    "Shopping List.md",
+    "Java学习路线.md",
     "ant detail.md",
     "公司/后端框架使用.md",
-    "Shopping List.md",
     "SpringBoot/拦截器.md",
     "未命名",
     "SpringBoot/插件.md",
@@ -231,7 +232,7 @@
     "SpringBoot/Lombok.md",
     "SpringBoot/Web.md",
     "大厂研发流程.md",
-    "主机配置.md",
+    "配置.md",
     "公司",
     "Java/1.OOP.md",
     "2024-05-25.md",
@@ -240,7 +241,6 @@
     "Java/6.反射.md",
     "Java/5.多线程.md",
     "Java/4.集合.md",
-    "Java/3.异常.md",
     "Accessory/Mybatis-Plus-00.png",
     "VUE",
     "assets",
