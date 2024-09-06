@@ -47,11 +47,9 @@
             "id": "2d73e9aa024dfc3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "配置.md",
-                "mode": "source",
-                "source": false
+                "file": "Accessory/Mybatis-Plus-01.png"
               }
             }
           }
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置.md",
+                "file": "Accessory/Mybatis-Plus-01.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "配置.md",
+                "file": "Accessory/Mybatis-Plus-01.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "配置.md"
+                "file": "Accessory/Mybatis-Plus-01.png"
               }
             }
           },
@@ -213,6 +211,8 @@
   "active": "2d73e9aa024dfc3e",
   "lastOpenFiles": [
     "Accessory/Pasted image 20240902155613.png",
+    "Accessory/Mybatis-Plus-01.png",
+    "配置.md",
     "Enduro配置.md",
     "Shopping List.md",
     "Java学习路线.md",
@@ -232,7 +232,6 @@
     "SpringBoot/Lombok.md",
     "SpringBoot/Web.md",
     "大厂研发流程.md",
-    "配置.md",
     "公司",
     "Java/1.OOP.md",
     "2024-05-25.md",
@@ -250,14 +249,12 @@
     "新建文件夹",
     "消费",
     "Mybatis-plus",
-    "Accessory/Mybatis-Plus-01.png",
     "Accessory/Git-00.png",
     "Accessory/Pasted image 20231116105345.png",
     "Accessory/Pasted image 20231115151934.png",
     "Accessory/Pasted image 20231113155445.png",
     "Accessory/Pasted image 20231115151849.png",
     "Accessory/MVC.png",
-    "Accessory/Pasted image 20230705155705.png",
-    "Accessory/Pasted image 20230705155213.png"
+    "Accessory/Pasted image 20230705155705.png"
   ]
 }
