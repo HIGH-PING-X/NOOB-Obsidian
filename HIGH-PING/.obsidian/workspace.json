@@ -165,8 +165,8 @@
             "state": {
               "type": "quiet-outline",
               "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
