@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/配置.md",
+                "file": "杂七杂八/MTB.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "配置"
+              "title": "MTB"
             }
           }
         ]
@@ -191,11 +191,12 @@
   },
   "active": "28165001625980c4",
   "lastOpenFiles": [
-    "杂七杂八/ant detail.md",
+    "杂七杂八/MTB配置.md",
     "杂七杂八/MTB.md",
-    "杂七杂八/Shopping List.md",
     "杂七杂八/配置.md",
+    "杂七杂八/ant detail.md",
     "杂七杂八/客制化.md",
+    "杂七杂八/Shopping List.md",
     "公司/后端框架使用.md",
     "LeetCode/简单/最长公共前缀.md",
     "LeetCode/简单/合并两个有序链表.md",
@@ -223,7 +224,6 @@
     "规格.md",
     "Java从入门到离职/SpringBoot/配置文件.md",
     "Java从入门到离职/Javaweb/3.设计模式.md",
-    "Java从入门到离职/Javaweb/2.Request.md",
     "Accessory/Pasted image 20240902155613.png",
     "公司",
     "未命名.canvas",
