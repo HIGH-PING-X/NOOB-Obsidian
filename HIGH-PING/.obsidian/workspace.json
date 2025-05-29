@@ -15,7 +15,7 @@
               "state": {
                 "file": "杂七杂八/配置.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "配置"
@@ -140,7 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂七杂八/配置.md"
+                "file": "杂七杂八/配置.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "配置 的大纲"
@@ -171,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +191,14 @@
   },
   "active": "28165001625980c4",
   "lastOpenFiles": [
+    "杂七杂八/ant detail.md",
+    "杂七杂八/MTB.md",
+    "杂七杂八/Shopping List.md",
+    "杂七杂八/配置.md",
     "杂七杂八/客制化.md",
+    "公司/后端框架使用.md",
+    "LeetCode/简单/最长公共前缀.md",
+    "LeetCode/简单/合并两个有序链表.md",
     "Java从入门到离职/Javaweb/1.Servlet.md",
     "Java从入门到离职/Java/6.反射.md",
     "Java从入门到离职/Java/5.多线程.md",
@@ -197,10 +206,6 @@
     "Java从入门到离职/Java/3.异常.md",
     "Java从入门到离职/Java/2.utility.md",
     "Java从入门到离职/Java/1.OOP.md",
-    "杂七杂八/Shopping List.md",
-    "杂七杂八/MTB配置.md",
-    "杂七杂八/ant detail.md",
-    "杂七杂八/配置.md",
     "Java从入门到离职/SpringBoot/REST风格.md",
     "Java从入门到离职/SpringBoot/拦截器.md",
     "Accessory/Mybatis-Plus-01.png",
@@ -214,14 +219,11 @@
     "Enduro配置.md",
     "主机配置.md",
     "配置表.md",
-    "公司/后端框架使用.md",
     "杂七杂八",
     "规格.md",
     "Java从入门到离职/SpringBoot/配置文件.md",
-    "LeetCode/简单/合并两个有序链表.md",
     "Java从入门到离职/Javaweb/3.设计模式.md",
     "Java从入门到离职/Javaweb/2.Request.md",
-    "Java从入门到离职/Git/Git.md",
     "Accessory/Pasted image 20240902155613.png",
     "公司",
     "未命名.canvas",
