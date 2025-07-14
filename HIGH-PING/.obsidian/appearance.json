@@ -2,7 +2,7 @@
   "accentColor": "#ec6d3d",
   "baseFontSize": 14,
   "translucency": true,
-  "interfaceFontFamily": "Consolas",
+  "interfaceFontFamily": "Consolas,Dubai",
   "monospaceFontFamily": "Consolas",
   "baseFontSizeAction": true
 }

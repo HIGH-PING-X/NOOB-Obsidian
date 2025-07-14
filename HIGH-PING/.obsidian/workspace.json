@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/MTB.md",
+                "file": "杂七杂八/配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MTB"
+              "title": "配置"
             }
           }
         ]
@@ -191,11 +191,11 @@
   },
   "active": "28165001625980c4",
   "lastOpenFiles": [
+    "杂七杂八/ant detail.md",
     "杂七杂八/Shopping List.md",
     "杂七杂八/MTB.md",
     "杂七杂八/MTB配置.md",
     "杂七杂八/配置.md",
-    "杂七杂八/ant detail.md",
     "杂七杂八/客制化.md",
     "公司/后端框架使用.md",
     "LeetCode/简单/最长公共前缀.md",
