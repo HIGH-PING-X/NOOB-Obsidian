@@ -7,11 +7,9 @@
 | PlayStation5 Slim 光驱版       | 3448  |
 | STEAM DECK OLED 1T          |       |
 | ROG ally                    | 4788  |
-| PlayStation5 DualSense Edge | 1599  |
 | Xbox 星空手柄                   | 448   |
 | Samsung Galaxy S24 Ultra 港版 | 8288  |
-| Sony Xperia 1 VI            |       |
-| ROG 幻14 Air                 | 12999 |
+| Sony Xperia 1 VII           |       |
 | Synology DS223j             | 1599  |
 | QNAP TS-462C-4G             | 1920  |
 | Westem Digital Red 4T       | 789   |
