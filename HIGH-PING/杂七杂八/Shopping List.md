@@ -3,7 +3,7 @@
 | SONY WF-1000XM5             | 1359  |
 | SONY WH-1000XM6             |       |
 | 虬龙轻峰                        | 21500 |
-| Nintendio Switch2           |       |
+| Nintendio Switch2           | 3378  |
 | PlayStation5 Slim 光驱版       | 3448  |
 | STEAM DECK OLED 1T          |       |
 | ROG ally                    | 4788  |
