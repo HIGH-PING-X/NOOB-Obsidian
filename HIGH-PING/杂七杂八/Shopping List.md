@@ -8,12 +8,11 @@
 | STEAM DECK OLED 1T          |       |
 | ROG ally                    | 4788  |
 | Xbox 星空手柄                   | 448   |
-| Samsung Galaxy S24 Ultra 港版 | 8288  |
+| Samsung Galaxy S26 Ultra 港版 | 8288  |
 | Sony Xperia 1 VII           |       |
 | Synology DS223j             | 1599  |
 | QNAP TS-462C-4G             | 1920  |
 | Westem Digital Red 4T       | 789   |
-| Samsung T9 2T               | 1309  |
 |                             |       |
 
 
