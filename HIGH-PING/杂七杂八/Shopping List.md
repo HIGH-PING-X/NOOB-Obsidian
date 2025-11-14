@@ -8,12 +8,14 @@
 | STEAM DECK OLED 1T          |       |
 | ROG ally                    | 4788  |
 | Xbox 星空手柄                   | 448   |
-| Samsung Galaxy S26 Ultra 港版 | 8288  |
-| Sony Xperia 1 VII           |       |
+| Samsung Galaxy S26 Ultra 港版 |       |
+| Sony Xperia 1 VIII          |       |
 | Synology DS223j             | 1599  |
 | QNAP TS-462C-4G             | 1920  |
 | Westem Digital Red 4T       | 789   |
 |                             |       |
+
+
 
 
 | NAME                 | 衣长  | 袖长   | 身宽   |
@@ -27,6 +29,9 @@
 | Patagonia 短袖 37582 M | 74  | 48   | 56   |
 | Patagonia 短袖 38504 M | 71  |      | 46   |
 |                      |     |      |      |
+
+
+
 
 | Clothing |     |     | Required |
 | -------- | --- | --- | -------- |
@@ -49,7 +54,7 @@ Clothing
 			10 件
 		卫衣
 			2 件
-		优衣库男女装大师 T
+		优衣库男女装大师 T（M 码冬天内衣）
 			4 件
 		中间层长袖
 			4 件
@@ -77,3 +82,6 @@ Clothing
 			1 双
 		运动鞋
 			2 双
+		越野鞋
+			1 双
+		
