@@ -1,18 +1,15 @@
 | 物品                          | 价格    |
 | --------------------------- | ----- |
-| SONY WF-1000XM5             | 1359  |
-| SONY WH-1000XM6             |       |
-| 虬龙轻峰                        | 21500 |
-| Nintendio Switch2           | 3378  |
-| PlayStation5 Slim 光驱版       | 3448  |
-| STEAM DECK OLED 1T          |       |
-| ROG ally                    | 4788  |
+| SONY WF-1000XM5             | 1189  |
+| SONY WH-1000XM6             | 2112  |
+| 虬龙轻峰上牌版本                    | 19800 |
+| Nintendio Switch2           | 3358  |
 | PS5 手柄珍珠白                   | 448   |
+| 华硕天选 air 2025               | 8999  |
 | Samsung Galaxy S26 Ultra 港版 |       |
 | Sony Xperia 1 VIII          |       |
-| Synology DS223j             | 1599  |
-| QNAP TS-462C-4G             | 1920  |
-| Westem Digital Red 4T       | 789   |
+| Synology DS 725+            | 4149  |
+| Synology Plus Series HDD 4T | 969   |
 |                             |       |
 
 
@@ -75,10 +72,10 @@ Clothing
 			2 件
 		硬壳衣
 			2 件
-		轻型羽绒服
+		轻型羽绒服/轻型棉服
 			2 件
-		棉服
-			2 件
+		雪山羽绒服/棉服
+			1 件
 	下装
 		内裤
 			8 条
@@ -87,9 +84,9 @@ Clothing
 		秋裤
 			3 条
 		运动长裤
-			2-4 条
+			4 条
 		软壳裤
-			2-4 条
+			2 条
 		硬壳裤
 			1 条
 		袜子

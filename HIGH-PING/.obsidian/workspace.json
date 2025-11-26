@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/配置.md",
+                "file": "杂七杂八/MTB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置"
+              "title": "MTB"
             }
           }
         ]
@@ -192,12 +192,12 @@
   },
   "active": "28165001625980c4",
   "lastOpenFiles": [
-    "杂七杂八/客制化.md",
-    "杂七杂八/配置.md",
     "杂七杂八/Shopping List.md",
+    "杂七杂八/PC配置.md",
     "杂七杂八/MTB.md",
     "杂七杂八/Outdoor.md",
     "杂七杂八/ant detail.md",
+    "杂七杂八/客制化.md",
     "杂七杂八/未命名",
     "公司/后端框架使用.md",
     "Java从入门到离职/大厂研发流程.md",
