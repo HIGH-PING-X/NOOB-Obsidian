@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂七杂八/MTB.md",
+                "file": "杂七杂八/Shopping List.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "MTB"
+              "title": "Shopping List"
             }
           }
         ]
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,11 +193,11 @@
   },
   "active": "28165001625980c4",
   "lastOpenFiles": [
-    "杂七杂八/Shopping List.md",
     "杂七杂八/PC配置.md",
-    "杂七杂八/MTB.md",
     "杂七杂八/Outdoor.md",
+    "杂七杂八/MTB.md",
     "杂七杂八/ant detail.md",
+    "杂七杂八/Shopping List.md",
     "杂七杂八/客制化.md",
     "杂七杂八/未命名",
     "公司/后端框架使用.md",
