@@ -1,55 +1,55 @@
-| 类别       | 型号                                                      | 价格 |
-| ---------- | --------------------------------------------------------- | ---- |
-| Cpu        | 英特尔® 酷睿™ i5-14600K                                   | 1269 |
-|            | 英特尔® 酷睿™ ultra5 245K                                 | 1459 |
-|            | AMD Ryzen™ 5 7600X3D                                      | 2199 |
-|            | AMD Ryzen™ 5 9600X                                        | 1349 |
-| 主板       |                                                           |      |
-| Intel 平台 | 技嘉 B860M AORUS ELITE WIFI6E ICE 冰雕                    | 1269 |
-|            | 技嘉 B860I AORUS PRO ICE (迷你冰雕）                      | 1699 |
-|            | Prime Z890M Plus WiFi                                     | 1649 |
-|            | ROG STRIX B860-I GAMING WIFI                              | 1649 |
-|            | ROG STRIX B860-G GAMING WIFI S 小吹雪                     | 1599 |
-|            | 华硕 TUF GAMING B860M-PLUS WIFI                           | 1249 |
-| AMD 平台   | 技嘉 B850M AORUS ELITE WIFI6E ICE 冰雕                    | 1309 |
-|            | 技嘉 B850I AORUS PRO (迷你雕）                            | 1691 |
-|            | ROG STRIX B850-I GAMING WIFI                              | 2450 |
-|            | ROG STRIX B850-G GAMING WIFI S 小吹雪                     | 1499 |
-|            | 华硕 TUF GAMING B850M PLUS Ⅱ WIFI                         | 1300 |
-| 内存       | 金士顿 FURY 6000 MHz 16×2                                 | 899  |
-|            | 雷神索尔 6000DDR532G(16Gx2)I海力士A-die颗粒CL28           | 1019 |
-|            | 雷神索尔 6000DDR548G(24Gx2)I海力士M-die颗粒CL28           | 1229 |
-| 显卡       | 七彩虹 iGame GeForce RTX4060Ti Mini OC 8GB                | 3199 |
-|            | 华硕 DUAL RTX5060Ti O16G                                  | 3748 |
-|            | 技嘉 RTX5060Ti 冰猎鹰 OC 16G                              | 3929 |
-| 存储       | 致态 TiPlus 7100 1T                                       | 499  |
-|            | 三星 990 pro 1T                                           | 642  |
-|            | 致态 TiPlus7100 4T                                        | 1959 |
-|            | 三星 990pro 4T                                            | 2199 |
-| 机箱       | 乔思博 TK-0                                               | 649  |
-|            | 乔思博 TK-1                                               | 549  |
-|            | 机械大师 c24                                              | 499  |
-|            | 九州风神 CH160 WH                                         | 221  |
-|            | 九州风神 CH170 WH                                         | 399  |
-|            | 闪鳞 G200                                                 | 259  |
-|            | 闪鳞 G300                                                 | 329  |
-|            | 闪鳞 G350                                                 | 399  |
-|            | 闪鳞 G400                                                 | 369  |
+| 类别       | 型号                                                 | 价格   |
+| -------- | -------------------------------------------------- | ---- |
+| Cpu      | 英特尔® 酷睿™ i5-14600K                                 | 1269 |
+|          | 英特尔® 酷睿™ ultra5 245K                               | 1459 |
+|          | AMD Ryzen™ 5 7600X3D                               | 2199 |
+|          | AMD Ryzen™ 5 9600X                                 | 1349 |
+| 主板       |                                                    |      |
+| Intel 平台 | 技嘉 B860M AORUS ELITE WIFI6E ICE 冰雕                 | 1269 |
+|          | 技嘉 B860I AORUS PRO ICE (迷你冰雕）                      | 1699 |
+|          | Prime Z890M Plus WiFi                              | 1649 |
+|          | ROG STRIX B860-I GAMING WIFI                       | 1649 |
+|          | ROG STRIX B860-G GAMING WIFI S 小吹雪                 | 1599 |
+|          | 华硕 TUF GAMING B860M-PLUS WIFI                      | 1249 |
+| AMD 平台   | 技嘉 B850M AORUS ELITE WIFI6E ICE 冰雕                 | 1309 |
+|          | 技嘉 B850I AORUS PRO (迷你雕）                           | 1691 |
+|          | ROG STRIX B850-I GAMING WIFI                       | 2450 |
+|          | ROG STRIX B850-G GAMING WIFI S 小吹雪                 | 1499 |
+|          | 华硕 TUF GAMING B850M PLUS Ⅱ WIFI                    | 1300 |
+| 内存       | 金士顿 FURY 6000 MHz 16×2                             | 899  |
+|          | 雷神索尔 6000DDR532G(16Gx2)I海力士A-die颗粒CL28             | 1019 |
+|          | 雷神索尔 6000DDR548G(24Gx2)I海力士M-die颗粒CL28             | 1229 |
+| 显卡       | 七彩虹 iGame GeForce RTX4060Ti Mini OC 8GB            | 3199 |
+|          | 华硕 DUAL RTX5060Ti O16G                             | 3748 |
+|          | 技嘉 RTX5060Ti 冰猎鹰 OC 16G                            | 3929 |
+| 存储       | 致态 TiPlus 7100 1T                                  | 499  |
+|          | 三星 990 pro 1T                                      | 642  |
+|          | 致态 TiPlus7100 4T                                   | 1959 |
+|          | 三星 990pro 4T                                       | 2199 |
+| 机箱       | 乔思博 TK-0                                           | 649  |
+|          | 乔思博 TK-1                                           | 549  |
+|          | 机械大师 c24                                           | 499  |
+|          | 九州风神 CH160 WH                                      | 221  |
+|          | 九州风神 CH170 WH                                      | 399  |
+|          | 闪鳞 G200                                            | 259  |
+|          | 闪鳞 G300                                            | 329  |
+|          | 闪鳞 G350                                            | 399  |
+|          | 闪鳞 G400                                            | 369  |
 | 散热       | Thermalright 利民 ROYAL PRETOR 130 ULTRA BLACK 皇家执政官 | 259  |
-|            | 超频三臻 RZ620                                            | 243  |
-|            | 酷冷至尊 Hyper612 APEX                                    | 323  |
-|            | 九州风神 冰立方 AK620 DIGITAL PRO 白色（164高）           | 429  |
-| 电源       | 海韵 Focus GX750 ATX 3.0                                  | 899  |
-|            | 九州风神 PQ750P WH                                        | 629  |
-|            | 长城 TF750 ATX 3.0 白金版                                 | 799  |
-|            | 利民 TR-TGFX 750  ATX 3.0+PCIE 5.0                        | 459  |
-| 风扇       | 利民 TL-B12 W×41                                          | 340  |
-| 杂项       | 定制线                                                    | 100  |
-|            | 戟创 K2 160×75×75 升降桌子                                | 1646 |
-|            | 戟创 T3 164×41×190洞洞板置物架                            | 737  |
-|            | 松能X TX01-2B-A                                           | 338  |
-|            |                                                           |      |
-| 总价       |                                                           |      |
+|          | 超频三臻 RZ620                                         | 243  |
+|          | 酷冷至尊 Hyper612 APEX                                 | 323  |
+|          | 九州风神 冰立方 AK620 DIGITAL PRO 白色（164高）                | 429  |
+| 电源       | 海韵 Focus GX750 ATX 3.0                             | 899  |
+|          | 九州风神 PQ750P WH                                     | 629  |
+|          | 长城 TF750 ATX 3.0 白金版                               | 799  |
+|          | 利民 TR-TGFX 750  ATX 3.0+PCIE 5.0                   | 459  |
+| 风扇       | 利民 TL-B12 W×41                                     | 340  |
+| 杂项       | 定制线                                                | 100  |
+|          | 戟创 K2 160×75×75 升降桌子                               | 1646 |
+|          | 戟创 T3 164×41×190洞洞板置物架                             | 737  |
+|          | 松能X TX01-2B-A                                      | 338  |
+|          |                                                    |      |
+| 总价       |                                                    |      |
 
 
 
