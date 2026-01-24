@@ -1,16 +1,24 @@
-| 物品                          | 价格    |
-| --------------------------- | ----- |
-| SONY WF-1000XM5             | 1189  |
-| SONY WH-1000XM6             | 2112  |
-| 虬龙轻峰上牌版本                    | 19800 |
-| Nintendio Switch2           | 3358  |
-| PS5 手柄珍珠白                   | 448   |
-| 华硕天选 air 2025               | 8999  |
-| Samsung Galaxy S26 Ultra 港版 |       |
-| Sony Xperia 1 VIII          |       |
-| Synology DS 725+            | 4149  |
-| Synology Plus Series HDD 4T | 969   |
-|                             |       |
+
+| 物品                          | 价格             |
+| --------------------------- | -------------- |
+| SONY WF-1000XM5             | 1189           |
+| SONY WH-1000XM6             | 2112           |
+| 虬龙轻峰上牌版本                    | 19800          |
+| VTB7250-9C-QF               | 14500          |
+| VTB V9600 Gen2 Pro          | 6800           |
+| VTB RGA-52KW                | 7500           |
+| Nintendio Switch2           | 3358           |
+| PS5 手柄珍珠白                   | 448            |
+| 华硕天选 air 2025               | 8999           |
+| ROG 幻14 air 2025            | 12999          |
+| Samsung Galaxy S26 Ultra 港版 |                |
+| Sony Xperia 1 VIII          |                |
+| Synology DS 725+            | 4149           |
+| Synology Plus Series HDD 4T | 969            |
+| 三阳剑齿虎 ADXTG 400             | 46980          |
+| 升仕 368G                     | 33800          |
+| Honda xadv 750              | 129800 (落地14w) |
+|                             |                |
 
 
 
@@ -58,20 +66,27 @@
 
 
 
+
 Clothing
 	上装
 		短袖
 			10 件
+		防晒皮肤衣
+			1 件
+		冬天贴身层（size-1）
+			3 件
 		卫衣
 			2 件
-		冬天贴身层
-			4 件
-		中间层长袖
+		Anorak
+			1 件
+		衬衫
+			1 件
+		中间层半拉链抓绒
 			2 件
 		软壳衣
 			2 件
 		硬壳衣
-			2 件
+			1 件
 		轻型羽绒服/轻型棉服
 			2 件
 		雪山羽绒服/棉服
@@ -79,12 +94,12 @@ Clothing
 	下装
 		内裤
 			8 条
-		短裤
-			6 条
+		五分裤
+			4 条
 		秋裤
 			2 条
 		运动长裤
-			4 条
+			2 条
 		软壳裤
 			2 条
 		硬壳裤
@@ -103,19 +118,69 @@ Clothing
 			1 双
 		
 
+|            | 需求  |                                           | 价格   |     |
+| ---------- | --- | ----------------------------------------- | ---- | --- |
+| 短袖         | 10  |                                           |      |     |
+|            |     |                                           |      | ✔   |
+| 翻晒皮肤衣      | 1   |                                           |      |     |
+|            |     | Under Armour UPF50+                       |      |     |
+| 卫衣         | 2   |                                           |      |     |
+|            |     | Under Armour Ottoman                      |      | ✔   |
+|            |     | Adidas Z.N.E.                             |      | ✔   |
+| Anorak     | 1   |                                           |      |     |
+|            |     | Fjällräven Vardag Hydratic Anorak         | 1062 |     |
+|            |     | Montbell O.D.                             | 478  |     |
+| 衬衫         | 1   |                                           |      |     |
+|            |     | Klattermusen Garm LS                      | 1500 |     |
+|            |     |                                           |      |     |
+|            |     |                                           |      |     |
+| 冬天贴身层      | 3   |                                           |      |     |
+|            |     | Montbell SUPER MERINO WOOL                | 450  |     |
+|            |     | UTO 美利奴羊毛                                 | 260  |     |
+|            |     | The North Face Summit Series Pro 120 Crew | 450  |     |
+|            |     | Under Armour bace 2.0                     | 250  |     |
+| 中间层半拉链抓绒   | 2   |                                           |      |     |
+|            |     | Patagonia R1 Air Fleece Zip-Neck          | 980  |     |
+|            |     |                                           |      |     |
+| 软壳衣        | 2   |                                           |      |     |
+|            |     | Klattermusen Jolner                       | 3150 |     |
+|            |     | Montbell CLIMABARRIER                     | 1000 |     |
+| 硬壳衣        | 1   |                                           |      |     |
+|            |     |                                           |      |     |
+| 轻型羽绒服/轻型棉服 | 2   |                                           |      |     |
+|            |     | ユニクロ ultra light down                     |      | ✔   |
+|            |     | Patagonia Nano Puff                       | 1769 |     |
+| 雪山羽绒服/棉服   | 1   |                                           |      |     |
+|            |     |                                           |      |     |
+| 内裤         | 8   |                                           |      |     |
+|            |     | ユニクロ 针织短裤×4                               |      | ✔   |
+|            |     | UTO 内裤×4                                  |      | ✔   |
+| 五分裤        | 4   |                                           |      |     |
+|            |     |                                           |      |     |
+|            |     |                                           |      |     |
+| 秋裤         | 2   |                                           |      |     |
+|            |     | UTO 美利奴羊毛×2                               | 269  |     |
+| 运动长裤       | 2   |                                           |      |     |
+|            |     | Adidas Z.N.E.                             |      | ✔   |
+|            |     | Under Armour PJT ROCK RIVAL FLC JOGGER    |      | ✔   |
+| 软壳裤        | 2   |                                           |      |     |
+|            |     | Klattermusen Gere 3.0 Short               | 2560 |     |
+|            |     | Fjällräven Keb Agile Trousers             | 1580 |     |
+| 硬壳裤        | 1   |                                           |      |     |
+|            |     | Montbell Alpine                           | 1125 |     |
+| 中筒袜        | 12  |                                           |      |     |
+|            |     | Decathlon AGV-01×12                       |      | ✔   |
+| 短筒袜        | 12  |                                           |      |     |
+|            |     | Decathlon AGV-01×12                       |      |     |
+| 骑行鞋        | 1   |                                           |      |     |
+|            |     | Five Ten Sleuth                           | 800  |     |
+| 运动鞋        | 2   |                                           |      |     |
+|            |     | Adidas ultraboost 5                       | 700  |     |
+|            |     | Asics gel-nimbus 27                       | 1000 |     |
+| 越野鞋        | 1   |                                           |      |     |
+|            |     |                                           |      |     |
 
 
 
-
-穷鬼套装⬇
-
-| 型号                          |        | Fake | Quality |
-| --------------------------- | ------ | ---- | ------- |
-| Klattermusen Allgron 2.0    | 硬壳冲锋衣  | 580  |         |
-| Klattermusen Alv 2.0        | 棉服     | 276  |         |
-| Klattermusen Lopt           | 羽绒服    | 430  |         |
-| Klattermusen Huge           | 半拉链中间层 | 197  |         |
-| Klattermusen Gere 3.0 Short | 软壳裤    | 300  |         |
-|                             |        |      |         |
 
 

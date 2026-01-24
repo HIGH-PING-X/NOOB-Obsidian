@@ -12,6 +12,38 @@
   --h5-color: inherit;
   --h6-color: inherit;
 }
+.quiet-outline-confirm-modal {
+  line-height: 1.5;
+}
+.quiet-outline-confirm-modal .modal-title {
+  margin-bottom: 8px;
+}
+.quiet-outline-confirm-modal p {
+  margin: 0;
+}
+.quiet-outline-confirm-modal p + p {
+  margin-top: 10px;
+}
+.quiet-outline-confirm-modal .quiet-outline-confirm-modal__buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 14px;
+}
+.quiet-outline-confirm-modal .quiet-outline-confirm-modal__buttons button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+}
+.quiet-outline-confirm-modal .quiet-outline-confirm-modal__btn-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 6px;
+}
+.quiet-outline-confirm-modal .quiet-outline-confirm-modal__btn-icon svg {
+  display: block;
+}
 .quiet-outline-tabs {
   display: flex;
   border-bottom: 1px solid var(--background-modifier-border);
