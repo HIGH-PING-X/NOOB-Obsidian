@@ -70,19 +70,19 @@
 Clothing
 	上装
 		短袖
-			10 件
+			10 件✔
 		防晒皮肤衣
 			1 件
 		冬天贴身层（size-1）
 			3 件
 		卫衣
-			2 件
+			2 件✔
 		Anorak
 			1 件
 		衬衫
 			1 件
 		中间层半拉链抓绒
-			2 件
+			3 件
 		软壳衣
 			2 件
 		硬壳衣
@@ -93,13 +93,13 @@ Clothing
 			1 件
 	下装
 		内裤
-			8 条
+			8 条✔
 		五分裤
 			4 条
 		秋裤
 			2 条
 		运动长裤
-			2 条
+			2 条✔
 		软壳裤
 			2 条
 		硬壳裤
@@ -122,7 +122,7 @@ Clothing
 | ---------- | --- | ----------------------------------------- | ---- | --- |
 | 短袖         | 10  |                                           |      |     |
 |            |     |                                           |      | ✔   |
-| 翻晒皮肤衣      | 1   |                                           |      |     |
+| 防晒皮肤衣      | 1   |                                           |      |     |
 |            |     | Under Armour UPF50+                       |      |     |
 | 卫衣         | 2   |                                           |      |     |
 |            |     | Under Armour Ottoman                      |      | ✔   |
@@ -132,14 +132,11 @@ Clothing
 |            |     | Montbell O.D.                             | 478  |     |
 | 衬衫         | 1   |                                           |      |     |
 |            |     | Klattermusen Garm LS                      | 1500 |     |
-|            |     |                                           |      |     |
-|            |     |                                           |      |     |
 | 冬天贴身层      | 3   |                                           |      |     |
-|            |     | Montbell SUPER MERINO WOOL                | 450  |     |
 |            |     | UTO 美利奴羊毛                                 | 260  |     |
 |            |     | The North Face Summit Series Pro 120 Crew | 450  |     |
-|            |     | Under Armour bace 2.0                     | 250  |     |
-| 中间层半拉链抓绒   | 2   |                                           |      |     |
+|            |     | 超级安踏天丝™纤维\|羊毛                             | 209  |     |
+| 中间层半拉链抓绒   | 3   |                                           |      |     |
 |            |     | Patagonia R1 Air Fleece Zip-Neck          | 980  |     |
 |            |     |                                           |      |     |
 | 软壳衣        | 2   |                                           |      |     |
@@ -176,9 +173,10 @@ Clothing
 |            |     | Five Ten Sleuth                           | 800  |     |
 | 运动鞋        | 2   |                                           |      |     |
 |            |     | Adidas ultraboost 5                       | 700  |     |
-|            |     | Asics gel-nimbus 27                       | 1000 |     |
+|            |     | Asics gel-nimbus 28                       | 1000 |     |
 | 越野鞋        | 1   |                                           |      |     |
 |            |     |                                           |      |     |
+
 
 
 
