@@ -70,7 +70,7 @@
 Clothing
 	上装
 		短袖
-			10 件✔
+			14 件✔
 		防晒皮肤衣
 			1 件
 		冬天贴身层（size-1）
@@ -81,11 +81,9 @@ Clothing
 			1 件
 		衬衫
 			1 件
-		中间层半拉链抓绒
-			3 件
-		软壳衣
+		中间层拉链抓绒
 			2 件
-		硬壳衣
+		软壳衣
 			1 件
 		轻型羽绒服/轻型棉服
 			2 件
@@ -98,15 +96,15 @@ Clothing
 			4 条
 		秋裤
 			2 条
+		夏天长裤
+			1 条
 		运动长裤
-			2 条✔
+			4 条✔
 		软壳裤
-			2 条
-		硬壳裤
 			1 条
 		袜子
 			中筒袜
-				12 双
+				12 双✔
 			短筒袜
 				12 双
 	鞋子
@@ -136,14 +134,12 @@ Clothing
 |            |     | UTO 美利奴羊毛                                 | 260  |     |
 |            |     | The North Face Summit Series Pro 120 Crew | 450  |     |
 |            |     | 超级安踏天丝™纤维\|羊毛                             | 209  |     |
-| 中间层半拉链抓绒   | 3   |                                           |      |     |
+| 中间层拉链抓绒    | 2   |                                           |      |     |
 |            |     | Patagonia R1 Air Fleece Zip-Neck          | 980  |     |
 |            |     |                                           |      |     |
-| 软壳衣        | 2   |                                           |      |     |
+| 软壳衣        | 1   |                                           |      |     |
 |            |     | Klattermusen Jolner                       | 3150 |     |
 |            |     | Montbell CLIMABARRIER                     | 1000 |     |
-| 硬壳衣        | 1   |                                           |      |     |
-|            |     |                                           |      |     |
 | 轻型羽绒服/轻型棉服 | 2   |                                           |      |     |
 |            |     | ユニクロ ultra light down                     |      | ✔   |
 |            |     | Patagonia Nano Puff                       | 1769 |     |
@@ -157,14 +153,14 @@ Clothing
 |            |     |                                           |      |     |
 | 秋裤         | 2   |                                           |      |     |
 |            |     | UTO 美利奴羊毛×2                               | 269  |     |
-| 运动长裤       | 2   |                                           |      |     |
+| 夏天长裤       | 1   |                                           |      |     |
+|            |     |                                           |      |     |
+| 运动长裤       | 4   |                                           |      |     |
 |            |     | Adidas Z.N.E.                             |      | ✔   |
 |            |     | Under Armour PJT ROCK RIVAL FLC JOGGER    |      | ✔   |
-| 软壳裤        | 2   |                                           |      |     |
-|            |     | Klattermusen Gere 3.0 Short               | 2560 |     |
+| 软壳裤        | 1   |                                           |      |     |
+|            |     | Klattermusen Gere 3.0 Short               | 2560 | ✔   |
 |            |     | Fjällräven Keb Agile Trousers             | 1580 |     |
-| 硬壳裤        | 1   |                                           |      |     |
-|            |     | Montbell Alpine                           | 1125 |     |
 | 中筒袜        | 12  |                                           |      |     |
 |            |     | Decathlon AGV-01×12                       |      | ✔   |
 | 短筒袜        | 12  |                                           |      |     |
