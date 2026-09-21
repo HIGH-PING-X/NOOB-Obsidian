@@ -5,7 +5,7 @@
 |     | INTENSE TRACER 279<br>~~后胆规格 205_65~~                                                              | 11800  |
 |     | commencal meta ht v3                                                                               | 6600   |
 | 后胆  | Fox float x2                                                                                       | 4299   |
-|     | rockshox vivid ult                                                                                 | 4199   |
+|     | Rockshox vivid ult                                                                                 | 4199   |
 |     | Ohlins TTX22 m.2                                                                                   | 6000   |
 |     | Ohlins TTX2 Air m.2                                                                                | 3280   |
 |     | EXT Aria                                                                                           | 8500   |
@@ -36,6 +36,7 @@
 |     | Title AH1 35 口径                                                                                    | 678    |
 | 把立  | LEWIS-FX 35口径                                                                                      | 358    |
 | 把套  | BURGTEC                                                                                            | 203    |
+|     | SDG Thrice OC Lock-On                                                                              | 218    |
 | 脚踏  | Crankbrothers Stamp 1                                                                              | 448    |
 |     | BURGTEC MK4                                                                                        | 419    |
 |     | SHIMANO SAINT                                                                                      | 909    |

@@ -1,24 +1,15 @@
 
-| 物品                          | 价格             |
-| --------------------------- | -------------- |
-| SONY WF-1000XM5             | 1189           |
-| SONY WH-1000XM6             | 2112           |
-| 虬龙轻峰上牌版本                    | 19800          |
-| VTB7250-9C-QF               | 14500          |
-| VTB V9600 Gen2 Pro          | 6800           |
-| VTB RGA-52KW                | 7500           |
-| Nintendio Switch2           | 3358           |
-| PS5 手柄珍珠白                   | 448            |
-| 华硕天选 air 2025               | 8999           |
-| ROG 幻14 air 2025            | 12999          |
-| Samsung Galaxy S26 Ultra 港版 |                |
-| Sony Xperia 1 VIII          |                |
-| Synology DS 725+            | 4149           |
-| Synology Plus Series HDD 4T | 969            |
-| 三阳剑齿虎 ADXTG 400             | 46980          |
-| 升仕 368G                     | 33800          |
-| Honda xadv 750              | 129800 (落地14w) |
-|                             |                |
+| 物品                          | 价格    |
+| --------------------------- | ----- |
+| SONY WF-1000XM5             | 1189  |
+| SONY WH-1000XM6             | 2112  |
+| Nintendio Switch2           | 3358  |
+| PS5 手柄珍珠白                   | 448   |
+| 华硕天选 air 2025               | 8999  |
+| ROG 幻14 air 2025            | 12999 |
+| Synology DS 725+            | 4149  |
+| Synology Plus Series HDD 4T | 969   |
+|                             |       |
 
 
 
@@ -93,7 +84,7 @@ Clothing
 		内裤
 			8 条✔
 		五分裤
-			4 条
+			6 条
 		秋裤
 			2 条
 		夏天长裤
@@ -101,7 +92,7 @@ Clothing
 		运动长裤
 			4 条✔
 		软壳裤
-			1 条
+			2 条
 		袜子
 			中筒袜
 				12 双✔
@@ -148,7 +139,7 @@ Clothing
 | 内裤         | 8   |                                           |      |     |
 |            |     | ユニクロ 针织短裤×4                               |      | ✔   |
 |            |     | UTO 内裤×4                                  |      | ✔   |
-| 五分裤        | 4   |                                           |      |     |
+| 五分裤        | 6   |                                           |      |     |
 |            |     |                                           |      |     |
 |            |     |                                           |      |     |
 | 秋裤         | 2   |                                           |      |     |
@@ -158,7 +149,7 @@ Clothing
 | 运动长裤       | 4   |                                           |      |     |
 |            |     | Adidas Z.N.E.                             |      | ✔   |
 |            |     | Under Armour PJT ROCK RIVAL FLC JOGGER    |      | ✔   |
-| 软壳裤        | 1   |                                           |      |     |
+| 软壳裤        | 2   |                                           |      |     |
 |            |     | Klattermusen Gere 3.0 Short               | 2560 | ✔   |
 |            |     | Fjällräven Keb Agile Trousers             | 1580 |     |
 | 中筒袜        | 12  |                                           |      |     |
